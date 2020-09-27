@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HarishAssignment</string>
+    <string name="total">Total</string>
+    <string name="qty">Quantity</string>
+    <string name="price">Price</string>
+    <string name="delete">delete btn</string>
+    <string name="addproduct">Add Product</string>
+    <string name="back">back</string>
+    <string name="productName">Product Name</string>
+    <string name="submit">Add Product</string>
+    <string name="noData">No Data, Please Add Product</string>
+</resources>
